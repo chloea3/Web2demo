@@ -9,6 +9,17 @@
   ],
   "creatorBuild" : "34335",
   "files" : {
+    "\/deploy\/css\/scripts-min.js" : {
+      "bF" : 0,
+      "ft" : 64,
+      "ma" : 0,
+      "mi" : 1,
+      "oA" : 0,
+      "oAP" : "\/deploy\/css\/scripts-min-min.js",
+      "oF" : 0,
+      "sC" : 3,
+      "tS" : 0
+    },
     "\/deploy\/css\/styles.css" : {
       "aP" : 1,
       "bl" : 0,
@@ -39,6 +50,29 @@
       "oF" : 0,
       "sC" : 3,
       "tS" : 0
+    },
+    "\/deploy\/scripts-min.js" : {
+      "bF" : 0,
+      "ft" : 64,
+      "ma" : 0,
+      "mi" : 1,
+      "oA" : 0,
+      "oAP" : "\/deploy\/scripts-min-min.js",
+      "oF" : 0,
+      "sC" : 3,
+      "tS" : 0
+    },
+    "\/deploy\/styles.css" : {
+      "aP" : 1,
+      "bl" : 0,
+      "ci" : 0,
+      "co" : 0,
+      "ft" : 16,
+      "ma" : 0,
+      "oA" : 0,
+      "oAP" : "\/deploy\/styles-min.css",
+      "oF" : 0,
+      "pg" : 0
     },
     "\/dev\/global\/footer.kit" : {
       "cB" : 0,
@@ -72,6 +106,14 @@
       "oAP" : "\/dev\/global\/scripts.html",
       "oF" : 0
     },
+    "\/dev\/header.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/dev\/header.html",
+      "oF" : 0
+    },
     "\/dev\/index.kit" : {
       "cB" : 0,
       "ft" : 2048,
@@ -86,7 +128,7 @@
       "ma" : 0,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/deploy\/css\/scripts-min.js",
+      "oAP" : "\/deploy\/scripts-min.js",
       "oF" : 3,
       "sC" : 3,
       "tS" : 0
@@ -250,46 +292,19 @@
       "ft" : 4,
       "ma" : 0,
       "oA" : 0,
-      "oAP" : "\/deploy\/css\/styles.css",
+      "oAP" : "\/deploy\/styles.css",
       "oF" : 2,
       "oS" : 0,
       "pg" : 0,
       "sct" : 0
     },
-    "\/package-lock.json" : {
-      "ft" : 524288,
-      "oA" : 1,
-      "oAP" : "\/package-lock-min.json",
-      "oF" : 0,
-      "oO" : 1,
-      "oS" : 1
-    },
-    "\/package.json" : {
-      "ft" : 524288,
-      "oA" : 1,
-      "oAP" : "\/package-min.json",
-      "oF" : 0,
-      "oO" : 1,
-      "oS" : 1
-    },
-    "\/README.md" : {
+    "\/dev\/workspace.code-workspace" : {
       "cB" : 0,
-      "cS" : 0,
-      "eF" : 1,
-      "eL" : 1,
-      "ema" : 1,
-      "eSQ" : 1,
-      "ft" : 4096,
+      "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/README.html",
-      "oF" : 0,
-      "oFM" : 0,
-      "oS" : 0,
-      "pHT" : 0,
-      "pME" : 1,
-      "rFN" : 0,
-      "uCM" : 0
+      "oAP" : "\/dev\/workspace.code-workspace",
+      "oF" : 0
     }
   },
   "hooks" : [
