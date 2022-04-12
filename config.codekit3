@@ -315,10 +315,10 @@
   },
   "projectAttributes" : {
     "creationDate" : 671032586.89719105,
-    "displayValue" : "Web2demo",
-    "displayValueWasSetByUser" : 0,
-    "iconImageName" : "brackets-rose",
-    "iconImageWasSetByUser" : 0
+    "displayValue" : "Web2hw",
+    "displayValueWasSetByUser" : 1,
+    "iconImageName" : "meme-kanye",
+    "iconImageWasSetByUser" : 1
   },
   "projectSettings" : {
     "abortBuildOnError" : 1,
