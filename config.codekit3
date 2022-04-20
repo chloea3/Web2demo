@@ -50,6 +50,19 @@
       "oAP" : "\/deploy\/img\/header\/header.html",
       "oF" : 0
     },
+    "\/deploy\/img\/hero\/blue\/white shirt.jpg" : {
+      "ft" : 16384,
+      "iS" : 26045,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/hero\/blue\/white shirt.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
     "\/deploy\/img\/hero\/cassiepantshero.jpg" : {
       "ft" : 16384,
       "iS" : 18413,
@@ -95,19 +108,6 @@
       "jF" : 0,
       "oA" : 0,
       "oAP" : "\/deploy\/img\/hero\/pinkjackethero.jpg",
-      "oF" : 0,
-      "oIPL" : 0,
-      "opt" : 0,
-      "ou" : "lpckwebp-none",
-      "q" : 100,
-      "rq" : 75
-    },
-    "\/deploy\/img\/hero\/Screen Shot 2022-04-05 at 9.16 1.jpg" : {
-      "ft" : 16384,
-      "iS" : 26045,
-      "jF" : 0,
-      "oA" : 0,
-      "oAP" : "\/deploy\/img\/hero\/Screen Shot 2022-04-05 at 9.16 1.jpg",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
@@ -218,6 +218,22 @@
       "hM" : 0,
       "oA" : 1,
       "oAP" : "\/dev\/content\/hero3.html",
+      "oF" : 0
+    },
+    "\/dev\/content\/hero4.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 1,
+      "oAP" : "\/dev\/content\/hero4.html",
+      "oF" : 0
+    },
+    "\/dev\/content\/hero5.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 1,
+      "oAP" : "\/dev\/content\/hero5.html",
       "oF" : 0
     },
     "\/dev\/global\/footer.kit" : {
@@ -443,14 +459,6 @@
       "oS" : 0,
       "pg" : 0,
       "sct" : 0
-    },
-    "\/dev\/workspace.code-workspace" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/dev\/workspace.code-workspace",
-      "oF" : 0
     }
   },
   "hooks" : [
